@@ -1,0 +1,6 @@
+
+<view>
+  this is a blank page
+  <ant-button>Button</ant-button>
+  <ant-switch checked="{{true}}" style="margin-top: 10px;" ></ant-switch>
+</view>

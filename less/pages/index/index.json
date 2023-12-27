@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "ant-button":"antd-mini/less/Button/index",
+    "ant-switch":"antd-mini/less/Switch/index"
+
+  }
+}
