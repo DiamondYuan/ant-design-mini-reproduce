@@ -1,0 +1,2 @@
+<test size="{{size}}" /> 
+<button bind:tap="onChange">add {{size}} </button>
